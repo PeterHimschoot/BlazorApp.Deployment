@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Demo",
+    "Projects": [
+      {
+        "Path": "BlazorApp.StaticWebApp.Client\\BlazorApp.StaticWebApp.Client.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "BlazorApp.StaticWebApp.Api\\BlazorApp.StaticWebApp.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
